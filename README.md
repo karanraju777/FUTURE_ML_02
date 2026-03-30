@@ -1,5 +1,5 @@
 # FUTURE_ML_02
-# Support Ticket Classification & Priority Tagging (Task 2)
+# Support Ticket Classification (Task 2)
 
 ## 📌 Project Overview
 This project was developed as part of my Data Science Internship at **Future Interns**. The goal is to automate the processing of customer support tickets by using Natural Language Processing (NLP) to categorize issues and assign urgency levels.
@@ -28,4 +28,4 @@ The project includes several data insights:
 
 ---
 **Author:** Karan Raju Kshirsagar  
-**Internship:** Future Interns (Data Science)
+**Internship:** Future Interns (machine learning)
