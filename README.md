@@ -8,9 +8,7 @@ This project was developed as part of my Data Science Internship at **Future Int
 - **Automated Classification:** Categorizes tickets into types (e.g., Billing, Technical Support, Software, Hardware).
 - **Smart Priority Tagging:** Automatically assigns priority levels (Low, Medium, High, Critical) based on ticket content.
 - **NLP Preprocessing:** Implemented a text-cleaning pipeline using NLTK to remove noise (stopwords, punctuation) and normalize text.
-- **Machine Learning:** Utilized **TF-IDF Vectorization** and the **Random Forest Classifier** for multi-class prediction.
-- **Text prprocessing:**
-
+- **Machine Learning:** Utilized **TF-IDF Vectorization** and the **Random Forest Classifier** for multi-class prediction
 
 ## 📊 Visualizations
 The project includes several data insights:
