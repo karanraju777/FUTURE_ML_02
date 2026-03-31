@@ -19,7 +19,7 @@ The project includes several data insights:
 ## 💻 Tech Stack
 - **Language:** Python
 - **Libraries:** Pandas, Scikit-Learn, NLTK, Matplotlib, Seaborn
-- **Environment:** Google Colab / Lenovo LOQ (i5-13th Gen, RTX 3050)
+- **Environment:** Jupyter Notebook / Lenovo LOQ (i5-13th Gen, RTX 3050)
 
 "While the initial accuracy was approximately 20-25%, the model successfully demonstrated the ability to distinguish between distinct semantic categories. Future iterations could improve performance by implementing Word Embeddings or Deep Learning models like BERT."
 ---
