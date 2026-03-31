@@ -21,11 +21,7 @@ The project includes several data insights:
 - **Libraries:** Pandas, Scikit-Learn, NLTK, Matplotlib, Seaborn
 - **Environment:** Google Colab / Lenovo LOQ (i5-13th Gen, RTX 3050)
 
-## 🚀 How to Run
-1. Upload the `customer_support_tickets.csv` file to your environment.
-2. Run the `Karan_Raju_Task2_Classification.ipynb` notebook.
-3. Observe the accuracy scores and generated visualizations.
-
+"While the initial accuracy was approximately 20-25%, the model successfully demonstrated the ability to distinguish between distinct semantic categories. Future iterations could improve performance by implementing Word Embeddings or Deep Learning models like BERT."
 ---
 **Author:** Karan Raju Kshirsagar  
 **Internship:** Future Interns (machine learning)
